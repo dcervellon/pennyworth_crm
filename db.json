@@ -1,0 +1,33 @@
+{
+  "clients": [
+    {
+      "id": 2,
+      "name": "Karen",
+      "phone": 138198313,
+      "email": "karen@juan.com",
+      "company": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "name": "Josue",
+      "phone": 31983913,
+      "email": "josue@juan.com",
+      "company": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "name": "Pedro",
+      "phone": 1398198938,
+      "email": "pedro@juan.com",
+      "company": "Codigo Con Juan"
+    },
+    {
+      "name": "Mateo Cervellon",
+      "company": "Mateo coder",
+      "email": "mateo.cervellon2319@gmail.com",
+      "phone": "882829292",
+      "notes": "mateo is here",
+      "id": 6
+    }
+  ]
+}
